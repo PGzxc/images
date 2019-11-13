@@ -1,19 +1,21 @@
 # images 图床
 
+
+
 ## 一 blog-images
 
-### 2017年
+* 格式：https://raw.githubusercontent.com/PGzxc/images/master/blog-images/图片名字.png
 
-* https://raw.githubusercontent.com/PGzxc/images/master/2017/markdown-install.png
+## 二  mac-images
 
-### up- 上半年
-### middle-中半年
-### down-下半年
+* 格式：https://raw.githubusercontent.com/PGzxc/images/master/mac-images/图片名字.png
+
+### 二 2019年
+
+* 格式：https://raw.githubusercontent.com/PGzxc/images/master/2019/图片名字.png
 
 
 
-* 博客图片
-* 格式：https://raw.githubusercontent.com/PGzxc/images/master/blog-images/文件名
 
 
 
